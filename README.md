@@ -3,7 +3,7 @@
 - 🌱 I’m currently in the Advanced-level Python Programming and CEP exam paper
 - 💞️ I’m looking to collaborate on small to mid-scale projects
 - 📫 How to reach me: Lebomogami@gmail.com
-- 😄 Pronouns: Him
+- 😄 Pronouns: Him/he
 - ⚡ Fun fact: let me think 
 
 <!---
